@@ -1,7 +1,7 @@
 import ApolloClient from "apollo-boost";
 
 const client = new ApolloClient({
-    uri:""
+    uri:"https://movieql.now.sh/"
 })
 
 export default client;
