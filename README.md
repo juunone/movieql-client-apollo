@@ -2,10 +2,12 @@
 
 Client with Apollo and GraphQL<br />
 react-router controll routing<br />
-Apollo cache function is awesome!!
+Apollo cache function is cool.
 
 ## Follow this step
 
-- <code>yarn install</code>
+```
+yarn install
 
-- <code>yarn start</code>
+yarn start
+```
